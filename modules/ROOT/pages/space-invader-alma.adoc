@@ -1,3 +1,5 @@
 == Space Invader Alma
 
+image::alma.png[Space Invader Alma]
+
 Placeholder.
